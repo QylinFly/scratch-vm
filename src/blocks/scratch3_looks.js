@@ -18,7 +18,7 @@ class Scratch3LooksBlocks {
             looks_say: this.say,
             looks_sayforsecs: this.sayforsecs,
             looks_think: this.think,
-            looks_thinkforsecs: this.sayforsecs,
+            looks_thinkforsecs: this.thinkforsecs,
             looks_show: this.show,
             looks_hide: this.hide,
             looks_switchcostumeto: this.switchCostume,
